@@ -1,4 +1,4 @@
-package org.Akorad;
+package org.Akorad.BlockingQueue;
 
 public class BlockingQueue<T> {
 
